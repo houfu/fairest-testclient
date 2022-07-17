@@ -1,4 +1,19 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Fairest TestClient
+
+This is a basic website intended to show a minimally functional fairest client, 
+and for development purposes. 
+
+**Fairest is an experiment and is not ready for serious use, demo or otherwise.**
+Please hang on!
+
+## Backend
+
+**A fairest backend is required**. You need to run and specify it so that the client knows what to call.
+The instructions below is for running a web server to run the client and is not the same
+as the above. (They are the default instructions for Next.JS apps.)
+
+TODO: Create a docker environment for demo purpose.
+
 
 ## Getting Started
 
